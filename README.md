@@ -1,4 +1,8 @@
-![Hi, There👏 (1)](https://github.com/saydul-m/saydul-m/assets/156899693/cd3b7df1-fcf0-4312-86f7-fc785a0bdff6)
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saydul+Miah!;" />
+</h1>
+
 <div align="center"> 
   <a href="www.linkedin.com/in/saydul-m   " target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -13,7 +17,7 @@
 
 ---
 
-My occupation is IT Technician With over 5 years of experience in the IT sector, I am enthusiastic about transitioning into the dynamic field of data analytics. My extensive background has equipped me with valuable skills in troubleshooting, problem-solving, and system management, all of which seamlessly align with the analytical demands of data analysis. As I embark on this new journey, I am excited to leverage my IT expertise and expand my proficiency in data analytics tools such as PowerBI, Tableau, and SQL through ongoing training and practical projects.
+With over 5 years of experience in the IT sector, I am enthusiastic about transitioning into the dynamic field of data analytics. My extensive background has equipped me with valuable skills in troubleshooting, problem-solving, and system management, all of which seamlessly align with the analytical demands of data analysis. As I embark on this new journey, I am excited to leverage my IT expertise and expand my proficiency in data analytics tools such as PowerBI, Tableau, and SQL through ongoing training and practical projects.
 <br>
 <br>
 To showcase my evolving skills and projects, I have chosen GitHub as a platform for its collaborative nature and industry-wide recognition. It provides a transparent and accessible space for potential employers to explore my repository, delve into my coding projects, and gain insights into my approach to data analysis. GitHub serves as a testament to my commitment to continuous learning and my dedication to building a strong foundation in the field of data analytics.
@@ -26,7 +30,6 @@ Currently, I am actively engaged in a 12-week intensive digital skills bootcamp 
 <br>
 As I embark on this transformative journey, my keen interest lies in starting my career as a Junior Data Analyst. This entry-level position aligns perfectly with my current skill set and the ongoing learning curve, providing me with the ideal platform to apply and further refine my newfound expertise. I am eager to contribute my skills to real-world projects, learn from experienced professionals, and continue to grow within the dynamic field of data analytics.
 
-
 * <h2> 💻 Technologies</h2>
 <p dir="auto">
 <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E"/>
@@ -35,10 +38,3 @@ As I embark on this transformative journey, my keen interest lies in starting my
 <img src="https://img.shields.io/badge/Tableau-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
  <img src="https://img.shields.io/badge/R-00A1E0?style=for-the-badge&logo=R&logoColor=white"/>
  <img src="https://img.shields.io/badge/Powerbi-443130?style=for-the-badge&logo=sql&logoColor=F7AF1E"/>
-</p>
-
-
-
-
-
-
