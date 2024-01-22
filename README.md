@@ -37,4 +37,5 @@ As I embark on this transformative journey, my keen interest lies in starting my
   </a>
 </div>
  
-![bg](https://github.com/saydul-m/saydul-m/assets/156899693/2345f018-bae3-4fd9-bb5e-1a2a2bb609de)
+
+![backgrounds](https://github.com/saydul-m/saydul-m/assets/156899693/cca520ea-3027-4358-9daf-e2cf280294b6)
