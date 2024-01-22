@@ -32,7 +32,7 @@ As I embark on this transformative journey, my keen interest lies in starting my
       <a href="https://public.tableau.com/app/profile/craig.payne/viz/ThewealthofnationsbySaydulMiah/Dashboard1#1" target="_blank">
     <img src="https://img.shields.io/badge/tableau-FF5722?style=for-the-badge&logo=tableau&logoColor=white" target="_blank" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://docs.google.com/spreadsheets/d/1j-4R6vSKCoWfMJ0FUxjIt2D_9jYjUB7cT6Ymek0P7ic/edit?usp=sharing" target="_blank">
      <img src="https://img.shields.io/badge/excel-228B22?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
