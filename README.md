@@ -7,12 +7,7 @@
   <a href="www.linkedin.com/in/saydul-m   " target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a> 
-  <a href="https://public.tableau.com/app/profile/craig.payne/viz/ThewealthofnationsbySaydulMiah/Dashboard1#1" target="_blank">
-    <img src="https://img.shields.io/badge/tableau-FF5722?style=for-the-badge&logo=tableau&logoColor=white" target="_blank" />
-  </a>
-  <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/excel-228B22?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+
 </div>
 
 ---
@@ -33,7 +28,13 @@ As I embark on this transformative journey, my keen interest lies in starting my
 
 * <h2> 💻 Technologies</h2>
 <p dir="auto">
-<img src="https://img.shields.io/badge/Excel-58CC02?style=for-the-badge&logo=Excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<div>
+      <a href="https://public.tableau.com/app/profile/craig.payne/viz/ThewealthofnationsbySaydulMiah/Dashboard1#1" target="_blank">
+    <img src="https://img.shields.io/badge/tableau-FF5722?style=for-the-badge&logo=tableau&logoColor=white" target="_blank" />
+  </a>
+  <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/excel-228B22?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
  
 ![bg](https://github.com/saydul-m/saydul-m/assets/156899693/2345f018-bae3-4fd9-bb5e-1a2a2bb609de)
